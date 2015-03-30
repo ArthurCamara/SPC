@@ -21,13 +21,9 @@ int main(int argc, char *argv[]) {
     position = size/2;
     cout<<cows[position];
   }
-  else{
+  else {
     position = size/2;
     aux = (cows[position]+cows[position-1])/2;
     cout<<aux<<endl;
   }
-  
-//  for (unsigned int i =0; i<cows.size(); i++){
-//    cout<<cows[i]<<" ";
-//  }
 }
