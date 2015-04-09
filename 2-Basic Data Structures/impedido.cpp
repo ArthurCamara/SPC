@@ -6,7 +6,7 @@
 #include <fstream>
 
 /*
- Given the positions for strikers and deffensers
+ Given the positions for strikers and defensers
  in a soccer game, tell if any striker is
  prevented. (Meaning that the striker is beyond
  the second-last defender)
